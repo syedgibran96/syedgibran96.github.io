@@ -40,7 +40,7 @@ function error(err) {
 }
 
 function getWeather(latitude, longitude){
-    let api = `Add https://crossorigin.me/shttp://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${KEY}`;
+    let api = `Add https://crossorigin.me/http://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${KEY}`;
 
     console.log(api);
 
