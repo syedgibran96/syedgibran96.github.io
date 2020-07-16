@@ -13,4 +13,5 @@ weather app using HTML, CSS, and JavaScript
 ### 🎨 Icons By 
 > [manifestinteractive](https://github.com/manifestinteractive/weather-underground-icons)
 
-open for suggestion and requests
+### 🌐 Live Demo
+https://syedgibran96.github.io/weatherapp/
